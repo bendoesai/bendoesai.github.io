@@ -6,9 +6,9 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Baby's First Web App
-    url: in-too-deep 
-    desc: I made a Flask app for a nerdy marathon of unprecedented proprotion.
+  - title: I Walked Around a Pond
+    url: on-intentionality
+    desc: Insights taken from Henry David Thoreau's <i>Walden</i>
 
 old_project_entries:
   - title: Soopr
@@ -19,9 +19,6 @@ old_project_entries:
 footer_entries:
   - title: ben's homepage
     url: https://bendoesai.github.io/
-
-  - title: bluesky
-    url: https://bsky.app/profile/bendoesai.bsky.social
 
   - title: github
     url: https://github.com/bendoesai
