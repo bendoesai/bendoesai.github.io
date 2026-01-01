@@ -122,16 +122,9 @@ I want to continue reading, and it looks like the Divine Trilogy is next on the 
 
 This one was just not realistic given my current practicing habits. Next year I want to simply set a goal to practice consistently, before I set a goal of a specific practice goal. In addition, maybe I should just take it one instrument at a time, starting with saxophone.
 
-<br></br>
-
 ## GRAND TOTAL: 10.5/25
 
 And that's the game folks! I think I've had a good year on the whole, and I liked having so mayn different goals to make progress on at once. it really scratched the "numbers go up" itch in my brain. All 25 goals listed abo-- *an aide runs in and whispers in my ear* -- What do you mean I missed one? Oh, right..
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 ### Buy myself flowers [...]
 
