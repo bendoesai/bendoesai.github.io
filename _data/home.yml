@@ -10,6 +10,10 @@ project_entries:
     url: on-intentionality
     desc: Insights taken from Henry David Thoreau's <i>Walden</i>
 
+  - title: Review of 2025
+    url: year-in-review-2025
+    desc: My specific 2025 resolution strategy and how it went for me.
+
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
