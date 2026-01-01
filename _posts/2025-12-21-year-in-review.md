@@ -11,8 +11,6 @@ Overall, this year was a large upswing for me. I started at a rather low point i
 
 Without further ado:
 
-## Bingo 2025, in No Particular Order
-
 ## Personal Growth and Self-care
 
 ### Work back to 300/200/400 Squat/Bench/Deadlift [**S**BD]
